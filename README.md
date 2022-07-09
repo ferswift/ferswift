@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/c611357b19a9a1558c8214a94ab8821f1ce3f31e4ef09b6ef9a6ad38ff6d1dfb/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35662f30382f35382f35663038353830396632623731313634336534656234393734636330336330652e676966)
+
 <h1 align="center">Hi! my name is Fer</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img align="right" alt="Coding" width="320" src="https://64.media.tumblr.com/72d9b6fc30d4eb5f3a7cb99913bff8c2/08ee4c9f524f3079-d2/s640x960/0ba0164c08627ada71f3a12860082d5e5a67bf39.gifv">
