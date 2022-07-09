@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi! my name is Fer</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/72d9b6fc30d4eb5f3a7cb99913bff8c2/08ee4c9f524f3079-d2/s640x960/0ba0164c08627ada71f3a12860082d5e5a67bf39.gifv">
+<img align="right" alt="Coding" width="350" src="https://64.media.tumblr.com/72d9b6fc30d4eb5f3a7cb99913bff8c2/08ee4c9f524f3079-d2/s640x960/0ba0164c08627ada71f3a12860082d5e5a67bf39.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferswift&label=Profile%20views&color=0e75b6&style=flat" alt="ferswift" /> </p>
 
